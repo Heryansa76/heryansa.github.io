@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: black;
+}
+
+#skill {
+  padding: 3rem 3rem;
+}
+
+#about {
+  padding: 7rem 7rem;
+}
+
+#myProject {
+  padding: 3rem;
+  margin-left: auto;
+}
+
+.contImg {
+  padding: 3rem 4rem;
+  background-color: #414444;
+}
+
+#contact {
+  padding: 4rem;
+}
